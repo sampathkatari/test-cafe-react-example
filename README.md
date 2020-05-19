@@ -1,4 +1,4 @@
-### Exaple of using TestCafe with React
+### Example of using TestCafe with React
 
 ## How to use
 1. Install dependencies - yarn install
